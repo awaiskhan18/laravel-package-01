@@ -1,0 +1,11 @@
+{
+    "name": "awaisahmadkhan200/apiresp",
+    "description": "This is a service to provide proper API Responses.",
+    "authors": [
+        {
+            "name": "Awais Khan"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
