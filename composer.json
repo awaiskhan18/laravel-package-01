@@ -7,7 +7,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "awaisahmadkhan200/apiresp": "1.0.0"
+    },
     "license": "MIT",
     "version": "1.0.0"
 }
