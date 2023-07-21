@@ -1,13 +1,51 @@
 {
     "name": "awaisahmadkhan200/apiresp",
     "description": "This is a service to provide proper API Responses.",
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "Laravel",
+        "API",
+        "Response"
+    ],
     "authors": [
         {
-            "name": "Awais Khan"
+            "name": "Awais Khan",
+            "email": "email@myeeeeemail.com",
+            "homepage": ""
         }
     ],
+    "homepage": "https://github.com/awaiskhan18",
+    "support": {
+
+    },
+    "funding": [
+
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "provide": {
+        "psr/clock-implementation": "1.0"
+    },
     "minimum-stability": "dev",
-    "require": {},
-    "license": "MIT",
-    "version": "1.0.0"
+    "prefer-stable": true,
+    "autoload": {
+
+    },
+    "autoload-dev": {
+
+    },
+    "config": {
+
+    },
+    "extra": {
+
+    },
+    "scripts": {
+
+    }
 }
