@@ -6,6 +6,8 @@
             "name": "Awais Khan"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {},
+    "license": "MIT",
+    "version": "1.0.0"
 }
